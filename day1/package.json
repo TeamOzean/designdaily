@@ -23,19 +23,9 @@
     "start": "gulp",
     "build": "gulp build"
   },
-  "bin": {
-    "create-gulp-starter-kit": "./bin/install.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/TeamOzean/day1.git"
-  },
   "author": "Akın Can Koç",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/TeamOzean/day1.git/issues"
-  },
-  "homepage": "https://github.com/TeamOzean/day1.git",
+  "homepage": "https://github.com/TeamOzean/designdaily.git",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
