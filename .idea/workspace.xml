@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="188e665e-f9fc-4aba-9184-ce96678c4aa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/designdaily.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day/day2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day/src/assets/images/option_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day/src/assets/images/pricing_details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day/src/assets/scss/day2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day/src/day2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/day1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/bcycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/cogs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/comment_user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/heartbeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/righticon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/assets/scss/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iAwC2WactqutH155soOkn8F4Zu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day/src/assets/scss" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marrin Makina\designdaily\designdaily\day" />
+      <recent name="C:\Users\Marrin Makina\designdaily\designdaily\day\src\assets\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marrin Makina\designdaily\designdaily\day\src\assets\scss" />
+      <recent name="C:\Users\Marrin Makina\designdaily\designdaily\day\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="188e665e-f9fc-4aba-9184-ce96678c4aa2" name="Default Changelist" comment="" />
+      <created>1601363572530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601363572530</updated>
+      <workItem from="1601363573777" duration="8030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601374112687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601374112687" />
+  </component>
+</project>

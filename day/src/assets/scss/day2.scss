@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+  font-size: 14px;
+
+  h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+body#day2 {
+  background-color: #EEF0F7;
+  height: 100%;
+}
+
+.component {
+  &--wrapper{
+    display: flex;
+
+  }
+  &--options {
+    margin: 50px auto;
+    width: 1360px;
+    height: 296px;
+    background-color: #FFFFFF;
+    box-shadow: 0 32px 23px 0 rgba(#465DA9, .13);
+    padding: 65px 62px;
+
+    h3 {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 57px;
+      line-height: 29px;
+    }
+
+    ul {
+      display: flex;
+
+      li {
+        flex: 1;
+        margin-right: 88px;
+        position: relative;
+        height: 62px;
+        display: flex;
+        align-items: center;
+
+        &.active {
+          background-color: #F6F8FF;
+          padding: 20px 30px;
+          border-radius: 12px;
+
+          &:before {
+            left: 20px;
+            height: 80%;
+            top: 50%;
+            transform: translateY(-50%);
+          }
+        }
+
+        &:before {
+          content: '';
+          width: 4px;
+          height: 100%;
+          background: linear-gradient(to bottom, #8BCDFF, #6487FF);
+          position: absolute;
+          top: 0;
+          left: 0;
+        }
+
+        a {
+          display: flex;
+          justify-content: space-between;
+          margin-left: 20px;
+          align-items: center;
+
+          span {
+            font-size: 20px;
+            color: #5F85FF;
+            line-height: 31px;
+          }
+
+          img {
+            width: 8.5px;
+            height: 17px;
+          }
+        }
+      }
+    }
+  }
+  &--pricingdetails{
+    margin: 20px 20px 20px 80px;
+
+    .pricingdetails-inner{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 621px;
+      height: 489px;
+      background-color: white;
+      padding:65px 75px;
+      box-shadow: 0 32px 23px 0 rgba(#465DA9, .13);
+      & > img{
+        margin-bottom: 40px;
+      }
+      h3{
+        font-size: 24px;
+        font-weight: bold;
+        color:#1A2250;
+        margin-bottom: 22px;
+      }
+      p{
+        color:#1A2250;
+        margin-bottom: 50px;
+        font-size: 20px;
+        font-weight: 400;
+      }
+      a{
+        display: flex;
+        font-size: 20px;
+        font-weight: 600;
+        color:#6189FF;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        img{
+          margin-left: 15px;
+        }
+        span{
+          font-size: 20px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+  &--ready-to-get-started{
+    margin-top: 20px;
+   .ready-to-get-started-inner{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     width: 621px;
+     height: 489px;
+     background-color: white;
+     padding:65px 75px;
+     box-shadow: 0 32px 23px 0 rgba(#465DA9, .13);
+     border-radius: 10px;
+
+     h3{
+       font-size: 34px;
+       font-weight: 600;
+       align-self: flex-start;
+       margin-bottom: 36px;
+     }
+     p{
+       font-size: 20px;
+       font-weight: 500;
+       line-height: 36px;
+       margin-bottom: 40px;
+     }
+     .btns{
+       align-self: flex-start;
+       display: flex;
+
+       a{
+         font-size: 20px;
+         font-weight: 600;
+         line-height: 24px;
+         height: 78px;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         color:#6189FF;
+         &.bg{
+           background: linear-gradient(to right,#8BCDFF,#6487FF);
+           color:white;
+           border-radius: 39px;
+           padding: 0 70px;
+           margin-right: 40px;
+         }
+       }
+     }
+   }
+  }
+}
